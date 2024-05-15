@@ -6,7 +6,7 @@
 -- https://sqlfiddle.com/sqlite/online-compiler (MYSQL)
 --
 
--- Vārds Uzvārds - 
+-- Daniils Baranovs- 
 
 -- 1. Izveidot tabulu priekš faila cities.json datiem, izvēloties atbilstošus datu tipus (CREATE)
 -- 2. Papildināt tabulu ar datiem no faila (INSERT) (drīkst izmantot konvertētāju https://www.convertsimple.com/convert-json-to-sql-insert-statement/)
